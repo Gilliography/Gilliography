@@ -31,18 +31,17 @@ I'm always interested in discussing:
 ## Featured Repositories
 
 ### 🏆 Data Engineering Roadmap
-**[Gilliography/Data-Engineering-Roadmap](https://github.com/Gilliography/Data-Engineering-Roadmap)** · Private
+**[Gilliography/Data-Engineering-Roadmap](https://github.com/Gilliography/Data-Engineering-Roadmap)** ·
 
 My comprehensive lessons and projects on Data Engineering, from beginner to job-ready level. A structured learning path covering core concepts and practical implementations.
 
 ---
 
 ### 🌤️ Weather Pipeline
-**[Gilliography/Weather_Pipeline](https://github.com/Gilliography/Weather_Pipeline)** · Public · Python
+**[Gilliography/Weather_Pipeline](https://github.com/Gilliography/Weather_Pipeline)** ·
 
 A beginner-friendly weather data pipeline using APIs. Recently updated, this project demonstrates practical ETL workflows and API integration principles.
 
-*Last updated: 3 days ago*
 
 ---
 
@@ -51,7 +50,6 @@ A beginner-friendly weather data pipeline using APIs. Recently updated, this pro
 
 The culmination of data engineering learning—a complete end-to-end project showcasing real-world data processing and pipeline design.
 
-*Last updated: 3 weeks ago*
 
 ---
 
@@ -60,16 +58,14 @@ The culmination of data engineering learning—a complete end-to-end project sho
 
 A beginner weather app focused on APIs, demonstrating orchestration patterns and data scheduling concepts.
 
-*Last updated: 2 weeks ago*
 
 ---
 
 ### 💻 Project Attempt 1 for Data Engineering Zoomcamp 2026
-**[Gilliography/Project-Attempt-1-for-Data-Engineering-Zoomcamp-2026](https://github.com/Gilliography/Project-Attempt-1-for-Data-Engineering-Zoomcamp-2026)** · Public · Python
+**[Gilliography/Project-Attempt-1-for-Data-Engineering-Zoomcamp-2026](https://github.com/Gilliography/Project-Attempt-1-for-Data-Engineering-Zoomcamp-2026)** ·
 
 Active Zoomcamp project showcasing practical data engineering techniques and implementations.
 
-*Last updated: 2 weeks ago*
 
 ---
 
@@ -78,7 +74,6 @@ Active Zoomcamp project showcasing practical data engineering techniques and imp
 
 Web programming project combining Python and JavaScript. A full-stack development exploration.
 
-*Last updated: Aug 1, 2025*
 
 ## ⚡ Quick Facts About Me
 
