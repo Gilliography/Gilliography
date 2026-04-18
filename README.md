@@ -13,8 +13,8 @@ I'm always interested in discussing:
 - Open-source collaboration
 
 **Reach Out:**
-- 💼 [LinkedIn Profile](https://linkedin.com/in/gilbert-data-engineer)
-- 📧 Email: gilbert@example.com
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/gilbert-kiprotich-a3b32470/)
+- 📧 Email: gkiprotich74@gmail.com
 - 🐙 GitHub: [@Gilliography](https://github.com/Gilliography)
 - 📝 [Technical Blog](https://your-blog-link.com)
 
