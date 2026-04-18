@@ -40,7 +40,7 @@ I'm always interested in discussing:
 ## 🎁 Open to Opportunities
 
 Looking for roles in:
-- **Senior Data Engineer** / **Lead Data Engineer**
+- **Junior Data Engineer** / **Data Engineer**
 - **ML Engineering** / **ML Ops**
 - **Data Platform Architect**
 - **Principal Engineer** (Data/Infrastructure)
