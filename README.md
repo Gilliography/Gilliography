@@ -1,4 +1,4 @@
-## Gilbert Kiprotich
+## Gilbert Kiprotich  — Data Engineer
 ## Hi there 👋
 
 ---
