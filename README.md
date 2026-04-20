@@ -46,7 +46,7 @@ A beginner-friendly weather data pipeline using APIs. Recently updated, this pro
 ---
 
 ### 📊 Final Data Engineering Project
-**[Gilliography/Final-DE-Project](https://github.com/Gilliography/Final-DE-Project)** · Public · Python
+**[Gilliography/Final-DE-Project](https://github.com/Gilliography/Final-DE-Project)** ·
 
 The culmination of data engineering learning—a complete end-to-end project showcasing real-world data processing and pipeline design.
 
